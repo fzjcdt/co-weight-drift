@@ -1,0 +1,14 @@
+# data & results
+data/
+results/
+*.pth
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# misc
+.DS_Store
+nohup.out
+.claude/
